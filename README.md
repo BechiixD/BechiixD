@@ -1,6 +1,6 @@
 # About me
 
-I'm a Data Science student, who likes programming and math, and seek to make a better world using the technology
+I'm a 17yo Data Science student, who likes programming and math, and seek to make a better world using the technology
 
 ## Who I am for the world?
 I'm a person, just one more
