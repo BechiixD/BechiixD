@@ -1,6 +1,10 @@
-# About me
+<h1 align="center">Hi, I'm Bechi!</h1>
 
-I'm a 18yo Data Science student, who likes programming and math, and seek to make a better world using the technology
+I'm a 18yo Data Science student
+
+I'm currently learning web development, more precisely the MERN stack
+
+I would also like to learn C++ in the future, but in the future...
 
 ## Who I am for the world?
 I'm a person, just one more
