@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bechi!</h1>
 
-I'm a 18yo Data Science student
+I'm a 19yo Data Science student
 
 I'm currently learning web development, more precisely the MERN stack
 
