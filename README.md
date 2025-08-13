@@ -6,7 +6,7 @@ I like Web Development, and also Machine Learning and AI
 I would also like to learn C++ or Rust in the future, but in the future...
 
 ## Who I am for the world?
-I'm a person, just one more
+I'm a person, just one more yet, yet...
 
 ## What I like?
 Cats, coffee and running until i can't breath anymore
