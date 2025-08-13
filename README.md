@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Bechi!</h1>
 
 I'm a 19yo Data Science student
+I like Web Development, and also Machine Learning and AI
 
 I would also like to learn C++ or Rust in the future, but in the future...
 
