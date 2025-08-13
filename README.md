@@ -5,8 +5,6 @@ I like Web Development, and also Machine Learning and AI
 
 I would also like to learn C++ or Rust in the future, but in the future...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BechiixD&hide_border=true&mode=weekly&background=45%2C61B3FF9E%2CFFB2DB87)](https://git.io/streak-stats)
-
 ## Who I am for the world?
 I'm a person, just one more
 
