@@ -5,6 +5,8 @@ I like Web Development, and also Machine Learning and AI
 
 I would also like to learn C++ or Rust in the future, but in the future...
 
+[![Bechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BechiixD)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Who I am for the world?
 I'm a person, just one more yet, yet...
 
