@@ -7,8 +7,5 @@ I like Web Development, and also Data Science and Machine Learning
 ## Who I am for the world?
 I'm a person, just one more yet, yet...
 
-## What I like?
-Cats, coffee and running until i can't breath anymore
-
 ## Which is my objective in GitHub?
 Idk, just be happy, i think
