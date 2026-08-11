@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Bechi!</h1>
 
-I'm a 19yo Data Science student
+I'm a 20yo **Data Science Student** passionate about Machine Learning.
 
-I like Web Development, and also Data Science and Machine Learning
+---
 
-## Who I am for the world?
-I'm a person, just one more yet, yet...
+### 🚀 About Me
+- 🔭 **Currently working on:** Videogame-related data projects
+- 🌱 **Currently learning:** Databases, Optimization Algorithms & Machine Learning Theory
+- 💡 **Interests:** Data Analysis, Machine Learning, Data Visualization & Cleaning
 
-## Which is my objective in GitHub?
-Idk, just be happy, i think
+---
+
+### 📊 GitHub Stats
+![Bechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BechiixD&show_icons=true&theme=radium)
